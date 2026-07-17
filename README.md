@@ -21,7 +21,7 @@ A native Android mobile application for digital printing and booking, developed 
    ```
 2. **Open in Android Studio:** Open the root project folder.
 3. **Sync Gradle:** Let Android Studio install all Material 3 and core dependencies.
-4. **Run:** Deploy the project onto an emulator or device running Android API 26 or higher.
+4. **Run:** Deploy the project into an emulator or device running Android API 26 or higher.
 
 ---
 
