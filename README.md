@@ -1,6 +1,6 @@
 # PrintXpress
 
-A native Android mobile application for digital printing and booking, developed as part of a university assignment.
+A native Android mobile application for digital printing and booking, developed as part of a Cardiff university assignment.
 
 ---
 
