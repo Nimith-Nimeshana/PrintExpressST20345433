@@ -6,7 +6,7 @@ A native Android mobile application for digital printing and booking, developed 
 
 ## 🛠️ Tech Stack & Features
 
-*   **Language & UI:** 100% Kotlin with Material Design 3 and ViewBinding.
+*   **Language:** 100% Kotlin with Material Design 3 and ViewBinding.
 *   **Architecture:** Model-View-ViewModel (MVVM).
 *   **Database:** Local SQLite (`SQLiteOpenHelper`) with auto-seeded product templates.
 *   **Core Workflow:** User onboarding, a custom print job builder (paper selection, artwork upload, dynamic pricing), a structured checkout flow (pickup vs delivery), and active order status timelines.
