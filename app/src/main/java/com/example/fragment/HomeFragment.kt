@@ -65,7 +65,7 @@ class HomeFragment : Fragment() {
         sessionManager = SessionManager(requireContext())
 
         // Set greetings
-        binding.txtGreeting.text = "Ayubowan, ${sessionManager.getUserName()}!"
+        binding.txtGreeting.text = "Welcome, ${sessionManager.getUserName()}!"
 
         setupRecyclerViews()
         observeViewModel()
